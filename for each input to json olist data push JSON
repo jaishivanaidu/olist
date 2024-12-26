@@ -1,0 +1,8 @@
+[
+    {"csvrelativeurl2612": "olist/refs/heads/main/olist_order_items_dataset.csv", "filename2612": "olist_order_items_dataset.csv"},
+    {"csvrelativeurl2612": "olist/refs/heads/main/olist_order_payments_dataset.csv", "filename2612": "olist_order_payments_dataset.csv"},
+    {"csvrelativeurl2612": "olist/refs/heads/main/olist_order_reviews_dataset.csv", "filename2612": "olist_order_reviews_dataset.csv"},
+    {"csvrelativeurl2612": "olist/refs/heads/main/olist_orders_dataset.csv", "filename2612": "olist_orders_dataset.csv"},
+    {"csvrelativeurl2612": "olist/refs/heads/main/olist_products_dataset.csv", "filename2612": "olist_products_dataset.csv"},
+    {"csvrelativeurl2612": "olist/refs/heads/main/olist_sellers_dataset.csv", "filename2612": "olist_sellers_dataset.csv"}
+]
